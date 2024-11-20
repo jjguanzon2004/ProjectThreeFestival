@@ -10,10 +10,25 @@ The Asian Voices Rise is a three day celebration of AAPI culture and representat
 
 ### Figma Wireframes
 
-<a href="/img/wireframes.png">
-<img src="img/wireframes.png" alt=screenshot>
+<a href="https://github.com/jjguanzon2004/projectThreeFestival/blob/main/img/wireframes.png">
+    <img src="img/wireframes.png" alt=screenshot>
+</a>
 
 
 ## Technical Overview
+
+#### Languages
+* HTML
+* CSS
+
+
+#### Fonts
+
+Eight
+* https://fonts.adobe.com/fonts/eight
+
+
+Adapter Mono PE Variable
+* https://fonts.adobe.com/fonts/adapter-mono-pe-variable
 
 ## Acknowledgments
