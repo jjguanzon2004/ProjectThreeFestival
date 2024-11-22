@@ -1,13 +1,40 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     text-decoration: none;
 }
 
+body {
+    background-color: #e1decd;
+    font-family: "adapter-mono-pe-variable",sans-serif;
+    font-variation-settings: 'wght' 600, 'slnt' 0, 'ital' 0, 'BORD' 300;
+}
+
 .header {
-       
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.header img {
+
 }
 
 .logo {
-    width: 25em;
+    width: 18.75em;
+}
+
+.main {
+
+}
+
+.pagecontainer {
+}
+
+.imagecontainer {
+}
+
+.introtext {
+    background-color: #5377b3;
 }
