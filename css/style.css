@@ -13,28 +13,10 @@ body {
 
 .header {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 }
 
-.header img {
-
-}
 
 .logo {
-    width: 18.75em;
-}
-
-.main {
-
-}
-
-.pagecontainer {
-}
-
-.imagecontainer {
-}
-
-.introtext {
-    background-color: #5377b3;
+    width: 250px;
+    padding-top: -100px;
 }
