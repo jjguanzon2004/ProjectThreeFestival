@@ -17,16 +17,19 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding-top: 20px;
-    padding-right: 3em;
-    padding-left: 3em;
+    /* padding-right: 3em;
+    padding-left: 3em; */
 }
 
 .logo {
     width: 15.645em;
+    padding-left: 2em;
 }
 
-.nav {
-
+nav {
+    padding-top: 1.5%;
+    padding-right: 2%;
+    font-size: 1.5em;
 }
 
 .pagecontainer {
@@ -44,13 +47,19 @@ body {
 }
 
 .hero img {
-    width: 100%
+    width: 100%;
+}
+
+.center {
+    position: absolute;
+    bottom: 13em;
 }
 
 .overlaytext {
     color: #e1decd;
     position: absolute;
-    align-items: baseline;
+    align-items: center;
+    top: 28.125em;
 }
 
 
