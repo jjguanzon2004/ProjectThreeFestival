@@ -7,7 +7,7 @@
 
 body {
     background-color: #e1decd;
-    font-family: "adapter-mono-pe-variable",sans-serif;
+    font-family: "adapter-mono-pe-variable", sans-serif;
     font-variation-settings: 'wght' 600, 'slnt' 0, 'ital' 0, 'BORD' 300;
 }
 
@@ -16,9 +16,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-top: 20px;
-    /* padding-right: 3em;
-    padding-left: 3em; */
+    padding-top: 10px;
 }
 
 .logo {
@@ -27,9 +25,14 @@ body {
 }
 
 nav {
-    padding-top: 1.5%;
-    padding-right: 2%;
-    font-size: 1.5em;
+    padding-top: 1%;
+    padding-right: 3%;
+    font-size: 2em;
+    font-weight: 10;
+}
+
+nav a {
+    color: #5377b3;
 }
 
 .pagecontainer {
@@ -64,6 +67,32 @@ nav {
 
 
 footer {
+    height: 2%;
+    padding-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #5377b3;
+    font-variation-settings: "BORD" 300, "ital" 0, "slnt" 0, "wght" 500;
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-start;
+    gap: 3em;
+    padding-left: 3%;
+    padding-bottom: 1%;
+}
+
+
+.name {
+    margin-right: 3%;
+}
+
+.name h4{
+    border: 1.5px solid #5377b3;
+    border-radius: 20px;
+    padding: 2px 10px 2px;
     
 }
 
