@@ -124,17 +124,36 @@ footer {
     padding-bottom: 4%;
 }
 
-.text {
-    padding-top: 10%;
+.info {
+    padding-top: 7%;
     padding-right: 5%;
     padding-left: 5%;
+    color: #5377b3;
 }
 
+.info h1 {
+    font-family: eight, sans-serif;
+    font-weight: 400;
+    font-size: 3em;
+}
+
+.info p {
+    font-size: 1.25em;
+}
+
+.info a {
+    background-color: #5377b3;
+    color: #e1decd;
+    font-size: 1.25em;
+    padding: 0.125em 2em;
+    border-radius: 30px;
+}
 
 /* events */
 
 .day1 {
     background-color: #5377b3;
+
 }
 
 .day2 {
