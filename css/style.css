@@ -93,14 +93,43 @@ footer {
     border: 1.5px solid #5377b3;
     border-radius: 20px;
     padding: 2px 10px 2px;
-    
 }
 
 /* about */
 
 .about {
     background-color: #5377b3;
+    display: flex;
+    flex-direction: row;
 }
+
+.bio {
+   color: aliceblue;
+   padding: 4em 4em;
+   font-size: 24px;
+}
+
+.org {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   height: 100%;
+   width: 100%;
+}
+
+.placeholder  {
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 4%;
+}
+
+.text {
+    padding-top: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
 
 /* events */
 
