@@ -173,7 +173,7 @@ footer {
 
 .text {
     padding-left: 5%;
-    padding-top: 5%;
+    padding-top: 2%;
 }
 
 .text h1 {
@@ -187,22 +187,9 @@ footer {
    flex-direction: column;
 }
 
-.headings {
-    display: flex;
-    gap: 1em;
-}
-
-.heading {
-    font-size: 2em;
-}
-
-.subheading {
-    font-size: 1.5em;
-    padding-top: 2%;
-}
 
  .description p {
-    padding-left: 35%;
+    padding-left: 13%;
  }
 
 
