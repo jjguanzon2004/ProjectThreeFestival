@@ -117,7 +117,7 @@ footer {
    width: 100%;
 }
 
-.placeholder  {
+.ksw  {
     width: 50%;
     padding-top: 5%;
     padding-left: 5%;
@@ -189,7 +189,7 @@ footer {
     margin-right: 9%;
     padding-bottom: 3%;
     /* background-color: black; */
-    border-bottom: 3px solid white;
+    border-bottom: 1px solid #e1decd;
 }
 
 .event-left {
@@ -220,7 +220,6 @@ footer {
 }
 
 .event-description {
-
 }
 
 /* .description {
