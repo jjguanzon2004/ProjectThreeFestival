@@ -161,12 +161,6 @@ footer {
     color: #e1decd;
 }
 
-.food {
-    padding-top: 5%;
-    padding-right: 5%;
-    padding-bottom: 5%;
-}
-
 .food img{
     width: 70%;
 }
@@ -219,26 +213,25 @@ footer {
     margin: 1% 0;
 }
 
-.event-description {
-}
-
-/* .description {
-   display: flex;
-   flex-direction: column;
-   padding-right: 10%;
-}
-
-
- .description p {
-    padding-left: 13%;
-    padding-bottom: 2%;
-    border-bottom: 3px solid #e1decd;
- } */
-
-
 .day2 {
-
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
 }
+
+.meeting img {
+    width: 50%;
+}
+
+.day2header {
+    font-family: eight, sans-serif;
+    font-weight: 400;
+    font-size: 7em;
+}
+
+
 
 
 /* shop */
