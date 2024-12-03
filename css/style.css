@@ -250,4 +250,17 @@ footer {
 
 .banner {
     background-color: #5377b3;
+    height: 10em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
+
+.banner h1 {
+    font-family: eight, sans-serif;
+    font-weight: 400;
+    font-size: 6.25em;
+    color: #e1decd;
+}
+
