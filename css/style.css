@@ -264,3 +264,16 @@ footer {
     color: #e1decd;
 }
 
+.shopitems {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    padding-top: 25%;
+    gap: 10
+}
+
+.item{
+    width: 10%;
+}
