@@ -270,18 +270,33 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
-    padding: 7% 5%;
+    padding: 7% 4%;
     width: 100%;
     height: auto;
 }
 
-/* .item {
-    width: 30%;
+.item {
     display: flex;
     flex-direction: column;
-    background-color: #5377b3;
+    width: 25%;
+    text-align: center;
 }
 
-#shirt {
-    width: 87%;
-} */
+.item img {
+    border: 3px solid #5377b3;
+    border-radius: 50px;
+}
+
+.item-description {
+    padding-top: 5%;
+}
+
+.button {
+    margin-top: 2%;
+    padding: 2% 0;
+    background-color: #5377b3;
+    color: #e1decd;
+    width: 40%;
+    align-self: center;
+    border-radius: 15px;
+}
