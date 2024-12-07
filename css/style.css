@@ -183,13 +183,11 @@ footer {
     margin-top: 2%;
     margin-right: 9%;
     padding-bottom: 3%;
-    /* background-color: black; */
     border-bottom: 1px solid #e1decd;
 }
 
 .event-left {
     min-width: 14em;
-    /* background-color: aqua; */
     justify-content: center;
     font-variation-settings: "BORD" 300, "ital" 0, "slnt" 0, "wght" 800;
     justify-content: center;
@@ -199,7 +197,6 @@ footer {
 }
 
 .event-left .date {
-   /*  background-color: white; */
     font-size: 2.063em;
 }
 
@@ -224,6 +221,7 @@ footer {
     justify-content: space-between;
     height: 100%;
     width: 100%;
+    color: #5377b3;
 }
 
 .event2 {
@@ -232,7 +230,7 @@ footer {
     margin-top: 2%;
     margin-right: 9%;
     padding-bottom: 3%;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #5377b3;
 }
 
 .meeting img {
