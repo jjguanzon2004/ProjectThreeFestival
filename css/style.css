@@ -18,24 +18,25 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-top: 2px;
+    padding-top: 1px;
 }
 
 .logo {
-    /* width: 15.645em; */
-    width: 220px;
-    padding-left: 2em;
+    padding-top: 0.5%;
+    width: 35%;
+    margin-left: 15%;
 }
 
 nav {
-    padding-top: 1%;
-    padding-right: 3%;
-    font-size: 1.75em;
+    margin-top: 1%;
+    margin-right: 7%;
+    font-size: 1.6em;
     font-weight: 10;
+    text-transform: uppercase;
 }
 
 nav a {
-    color: #5377b3;
+    color: #5377b3;;
 }
 
 nav a:hover {
@@ -71,6 +72,14 @@ nav a:hover {
     align-items: center;
     text-align: center;
     top: 28.125em;
+}
+
+h1 {
+    font-variation-settings: "BORD" 300, "ital" 0, "slnt" 0, "wght" 700;
+}
+
+h2 {
+    font-variation-settings: "BORD" 300, "ital" 0, "slnt" 0, "wght" 600;
 }
 
 footer {
