@@ -349,6 +349,18 @@ footer {
 
 @media screen and (max-width: 768px) {
 
+    .hero {
+        width: auto;
+        height: 600px;
+    }
+
+    .center {
+        width: 80%;
+    }
+
+
+/* shop */
+
     .header {
         flex-direction: row;
         flex-wrap: nowrap;
