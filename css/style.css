@@ -386,6 +386,10 @@ footer {
         width: 40%;
     }
 
+    footer {
+        padding-top: 2.5%;
+    }
+
     footer h4 {
         font-size: 12px;
     }
