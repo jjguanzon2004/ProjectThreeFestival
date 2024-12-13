@@ -103,7 +103,6 @@ footer {
 .name {
     margin-right: 3%;
 }
-
 .name h4{
     border: 1.5px solid #5377b3;
     border-radius: 20px;
@@ -350,12 +349,44 @@ footer {
 
 @media screen and (max-width: 768px) {
 
+    .header {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+
+    .logo {
+        width: 70%;
+    }
+
+    nav {
+        font-size: 20px;
+        text-wrap: nowrap;
+        padding-top: 2%;
+    }
+
     .shopitems {
         flex-direction: column;
     }
 
     .item {
-        width: 70%;
+        width: 60%;
+        margin-top: 15%;
     }
 
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    .cart-btn {
+        width: 40%;
+    }
+
+    footer h4 {
+        font-size: 12px;
+    }
 }
