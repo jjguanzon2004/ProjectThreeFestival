@@ -358,6 +358,38 @@ footer {
         width: 80%;
     }
 
+/* about */
+    .bio {
+        padding: 50px 50px;
+    }
+
+    .org {
+        flex-direction: column;
+        overflow: hidden;
+        height: auto;
+        padding-bottom: 5%;
+    }
+
+    .org img {
+        height: auto;
+        width: 85%;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+
+    .info{
+        text-align: center;
+    }
+
+    .info p {
+        font-size: 15px;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .info a {
+        
+    }
 
 /* shop */
 
