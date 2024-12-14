@@ -263,9 +263,6 @@ footer {
     border-bottom: 1px solid #5377b3;
 }
 
-.meeting img {
-}
-
 .day2header {
     font-family: eight, sans-serif;
     font-weight: 400;
@@ -278,12 +275,19 @@ footer {
 /* shop */
 
 .banner {
-    background-color: #5377b3;
     height: 10em;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center; 
+    position: relative;
+    margin-top: 4.5%;
+    margin-bottom: 4%;
+}
+
+.banner img {
+    max-width: 100%;
+    height: auto;
 }
 
 .banner h1 {
@@ -291,6 +295,7 @@ footer {
     font-weight: 400;
     font-size: 6.25em;
     color: #e1decd;
+    position: absolute;
 }
 
 .shopitems {
@@ -299,7 +304,7 @@ footer {
     justify-content: space-evenly;
     align-items: center;
     text-align: center;
-    padding: 7% 4% 5%;
+    padding: 7% 4% 4%;
     width: 100%;
     height: auto;
     border-bottom: 0.125em solid #5377b3;
