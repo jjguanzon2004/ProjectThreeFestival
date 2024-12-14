@@ -414,6 +414,20 @@ footer {
         padding-top: 2%;
     }
 
+    .banner {
+        margin-top: -5%;
+        margin-bottom: -15%;
+    }
+
+    .banner h1 {
+        font-size: 3em;
+    }
+
+    .banner img {
+        width: 100%;
+        height: auto;
+    }
+
     .shopitems {
         flex-direction: column;
     }
