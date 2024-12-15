@@ -10,7 +10,7 @@ Asian Voices Rising is a three day celebration of AAPI culture and representatio
 
 ### High-Fi Wireframes Link
 
-<a href="https://github.com/jjguanzon2004/projectThreeFestival/blob/main/img/wireframes.png">
+<a href="https://www.figma.com/design/9a9PFeIo3sIt62DS8HSbBj/Project-3-Wireframes?node-id=167-381&t=wPwi4S4gmZHWTJLt-1">
     <img src="img/wireframes.png" alt=screenshot>
 </a>
 
