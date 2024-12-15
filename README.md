@@ -44,7 +44,7 @@ Adapter Mono PE Variable
 
 ## Acknowledgments
 
-This project uses images from the following sources:
+Special thanks to the following open source websites and the Kearny Street Workshop for the images:
 
 _Pexels_
 * https://www.pexels.com/photo/people-sitting-on-the-grass-6376520/
